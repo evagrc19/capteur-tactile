@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="2~_t7+Xn_(wb7_Say528">logo doré</variable></variables><block type="pxt-on-start" id="#L8!.TxEQ!*[st[XXCH}" x="20" y="20"><statement name="HANDLER"><block type="basic_show_icon" id="P$d4}sG}++dJa|~JW+nP"><field name="i">IconNames.Square</field></block></statement></block><block type="device_forever" id="j4|b8xxjQvECL0{YNY^r" x="382" y="13"/><block type="device_button_event" id=":+gW`[HQ4W!3]I}60gl4" x="69" y="241"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="basic_show_icon" id="9zKkEN1[{+}@Ky.Nk(Jn"><field name="i">IconNames.Happy</field></block></statement></block><block type="device_button_event" id="w)232F,?N@/#N[.$@q|!" x="54" y="442"><field name="NAME">Button.B</field><statement name="HANDLER"><block type="basic_show_icon" id="z)t2BR@2{C,a)%v5~XPG"><field name="i">IconNames.Sad</field></block></statement></block><block type="input_logo_event" id="@?eRDuW^43Rpb*P_#/y8" x="446" y="465"><field name="action">TouchButtonEvent.Pressed</field><statement name="HANDLER"><block type="device_show_leds" id="xESv3;NdMzQ^J*M.!0yk"><field name="LEDS">`
+        . # . # . 
+        . . . . . 
+        . . # . . 
+        . # . # . 
+        . . # . .
+        `</field></block></statement></block></xml>
